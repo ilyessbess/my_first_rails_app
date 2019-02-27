@@ -1,5 +1,5 @@
 GEM
-  remote: https://rubygems.org/
+  remote: https://random-words-73975.herokuapp.com/ deployed to Heroku
   specs:
     actioncable (5.2.2)
       actionpack (= 5.2.2)
